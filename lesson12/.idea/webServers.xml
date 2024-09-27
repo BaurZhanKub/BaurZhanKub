@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="03e3be1f-4646-4be7-bc25-72a7b240fc42" name="BaurTest" url="http://localhost">
+        <fileTransfer mountedRoot="C:\Users\Kuben\OneDrive\Документы\GitHub\BaurZhanKub\lesson12" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>

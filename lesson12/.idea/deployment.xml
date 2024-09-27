@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="BaurTest" uploadOnCheckin="03e3be1f-4646-4be7-bc25-72a7b240fc42" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="BaurTest">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myUploadOnCheckinName" value="BaurTest" />
+  </component>
+</project>
